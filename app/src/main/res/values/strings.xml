@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NFCExample</string>
+    <string name="explanation">NFC is enabled</string>
+</resources>
